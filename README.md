@@ -1,4 +1,4 @@
-👨‍💻Vitor Bettim 
+Vitor Bettim 
 ---
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=bettimkkkj&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bettimkkkj&layout=compact&theme=radical)
 
