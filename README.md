@@ -1,7 +1,5 @@
 Vitor Bettim 
 ---
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=bettimkkkj&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bettimkkkj&layout=compact&theme=radical)
-
 ---
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**  
 💻 Apaixonado por tecnologia e com foco em desenvolvimento **Back-end com Java**  
